@@ -7,7 +7,7 @@ Objectives
 
 Preliminary design
 ------------------
-The preliminary design with pseudocode can be found in the provided flowchart (flowchart.jpg) in the images folder.
+The preliminary design with pseudocode can be found in the provided flowchart (flowchart.png) in the images folder.
 
 Code
 ----
