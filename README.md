@@ -23,11 +23,12 @@ Key's address being used instead of the key itself. Fix: Stored key into R9, the
 Results
 -------
 Test: Required Functionality  
-Result: Congratulations!..You.decrypted.the.ECE382.hidden.message.and.achieved.required.functionality#
+Result: Congratulations!..You.decrypted.the.ECE382.hidden.message.and.achieved.required.functionality#  
+Inputted the Required Functionality message into myMessage, and then used the memory browser to observe what was being written into RAM.
 
 Observations and Conclusions
 ----------------------------
-
+Subroutines are very convenient, more organized ways of making jumps. They keep the code from being filled with jump instructions and having labels all over the place.
 
 Documentation
 -------------
