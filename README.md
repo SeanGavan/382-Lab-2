@@ -7,11 +7,11 @@ Practice coding with subroutines using both pass-by-value and pass-by-reference 
 
 Preliminary design
 ------------------
-The preliminary design with pseudocode can be found in the provided flowchart (flowchart.png) in the images folder.
+The preliminary design with pseudocode can be found [here](https://raw.githubusercontent.com/SeanGavan/382-Lab-2/master/images/flowchart.png).
 
 Code
 ----
-The code for this lab is located under the code folder.
+The code for this lab is located [here](https://raw.githubusercontent.com/SeanGavan/382-Lab-2/master/code/Decrypt.asm).
 
 Debugging
 ---------
