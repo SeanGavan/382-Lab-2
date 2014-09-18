@@ -3,7 +3,7 @@
 
 Objectives
 ----------
-
+Practice coding with subroutines using both pass-by-value and pass-by-reference arguements to create a message decoder.
 
 Preliminary design
 ------------------
