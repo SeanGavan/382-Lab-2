@@ -17,6 +17,7 @@ Debugging
 ---------
 R6 holds mext RAM location, R5 holds current location. 0x0000 being written into R5. Fix: inc.w r6 when moving pointer instead of mov.b @r6+,r5.  
 Jumps to forever when it should loop back to the subroutines. Fix: Added 0x00 catch to end the program; jeq 0x00,r7 (the message pointer) and then a jmp subs (subroutines loop) added.  
+Key's address being used instead of the key itself. Fix: Stored key into R9, then used @r9+, r10 to get the actual key instead of address.
 
 
 Results
