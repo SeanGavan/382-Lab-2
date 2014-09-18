@@ -28,7 +28,7 @@ Inputted the Required Functionality message into myMessage, and then used the me
 
 Observations and Conclusions
 ----------------------------
-
+Subroutines are very convenient, more organized ways of making jumps. They keep the code from being filled with jump instructions and having labels all over the place.
 
 Documentation
 -------------
