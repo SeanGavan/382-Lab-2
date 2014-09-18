@@ -4,7 +4,7 @@
 ; Section: T5A
 ; Project: Lab 1 for ECE 382 - message decryption using XOR
 ; Date started: 16 Sept. 14
-; Date last changed: 16 Sept. 14
+; Date last changed: 17 Sept. 14
 ;
 ;-------------------------------------------------------------------------------
             .cdecls C,LIST,"msp430.h"       ; Include device header file
