@@ -34,7 +34,7 @@ StopWDT     mov.w   #WDTPW|WDTHOLD,&WDTCTL  ; Stop watchdog timer
 
 			mov.w	#myResult, r6			;
 			mov.w	#myKey, r9			    ;
-			mov.b	@r9+, r10
+			mov.b	@r9+, r10				;
             mov.w	#myMessage, r8			; load registers with necessary info for decryptMessage here
             mov.b	@r8+, r7				;
 
